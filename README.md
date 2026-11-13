@@ -1,2 +1,2 @@
 # BGGN213_github
-My classwork from BGGN213 Bioinformatics at UCSD.
+My classwork from BGGN213 Bioinformatics at UC San Diego.
